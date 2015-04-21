@@ -38,6 +38,7 @@ None at the moment.
 == Screenshots ==
 
 1. This simply replaces the user profile image where ever the get_avatar() function is used.
+2. Edit My Profile page with the new user profile upload.
 
 == Changelog ==
 
