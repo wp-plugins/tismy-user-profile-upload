@@ -16,7 +16,7 @@ Sometimes handing your site over to clients or when you run a site with multiple
 users can create their own profile picture for comments or any other custom functionality that uses the get_avatar() function.
 
 Before they would have to create a global Gravatar account which is fine if that's what you want however, with this plugin there 
-is need to rely on your users having a Gravatar account.
+is no need to rely on your users having a Gravatar account.
 
 This plugin will allow the users on your WordPress site to upload their own Profile Picture through the Media Library either by Uploading a new file or choosing one from the Media Library.
 
