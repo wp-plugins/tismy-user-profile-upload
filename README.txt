@@ -22,14 +22,12 @@ This plugin will allow the users on your WordPress site to upload their own Prof
 
 == Installation ==
 
-This section describes how to install the plugin and get it working.
+This is how to install the plugin and get it working.
 
-e.g.
-
-1. Upload `tismy-user-profile-upload.php` to the `/wp-content/plugins/` directory.
+1. Upload `tismy-user-profile-upload.zip` to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
-3. In the user Edit Profile view of the logged in user there will be a new Profile Image section below Toolbar section.
-4. Upload an image and use all the functionality available to users via the Media Library
+3. In the user Edit Profile view of the logged in user there will be a new Profile Image section below the Toolbar section.
+4. Upload an image and use all the functionality available to you via the Media Library
 
 == Frequently Asked Questions ==
 
