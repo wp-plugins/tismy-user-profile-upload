@@ -1,0 +1,7 @@
+#profile-image-container img {
+    width: 50%;
+    height: auto;
+    padding: 0;
+    background: #fff;
+    border: 15px solid #fff;
+}
