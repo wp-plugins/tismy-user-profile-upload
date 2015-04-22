@@ -106,6 +106,9 @@ class Tismy_User_Profile_Upload_Admin {
 	}
 
 	public function extra_profile_fields( $user ) {
+		if (!current_user_can('upload_files')) {
+			return;
+		}
 	    // get the value of profile image
 	    $profile_image_id = get_user_meta( $user->ID, 'profile_image_id', true );
 	    if (empty($profile_image_id) || !isset($profile_image_id)) { ?>
