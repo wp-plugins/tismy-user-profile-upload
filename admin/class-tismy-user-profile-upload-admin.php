@@ -192,7 +192,7 @@ class Tismy_User_Profile_Upload_Admin {
 	            $avatar = $profile_image_url;
 	            $avatar = "<img alt='{$alt}' src='{$avatar}' class='avatar avatar-{$size} photo' height='{$size}' width='{$size}' />";
 			} else {
-				$avatar = get_avatar($user);
+				$avatar = get_avatar($user, 32);
 			}
 	
 	    }

@@ -16,7 +16,7 @@
  * Plugin Name:       Tismy User Profile Upload
  * Plugin URI:        http://www.squareonemd.co.uk/
  * Description:       Upload your own user profile picture rather than falling back to the default or having your users create a Gravatar account.
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            Elliott Richmond Square One
  * Author URI:        http://www.squareonemd.co.uk/
  * License:           GPL-2.0+

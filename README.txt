@@ -45,8 +45,14 @@ None at the moment.
 = 1.0 =
 * First iteration.
 
+= 1.1 =
+image size changed to match avatar standard.
+
 == Upgrade Notice ==
 
 = 1.0 =
 First iteration.
+
+= 1.1 =
+Image size changed.
 
